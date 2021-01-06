@@ -1,0 +1,173 @@
+
+看，。、、<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="gbk" />
+<meta http-equiv="Cache-Control" content="no-siteapp"/>
+<meta http-equiv="Cache-Control" content="no-transform"/>
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.huaxiangju.com/26134/6916687.html"/>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=https://m.huaxiangju.com/26134/6916687.html"/>
+<title>【第一章 命中注定的邂逅】 - 花香居</title>
+<meta name="keywords" content="第一章 命中注定的邂逅,第一章 命中注定的邂逅免费阅读,第一章 命中注定的邂逅在线阅读" />
+<meta name="description" content="花香居提供最新章节第一章 命中注定的邂逅免费在线阅读。" />
+<link rel="stylesheet" type="text/css" href="/css/common.css" />
+<link rel="stylesheet" type="text/css" href="/css/reader.css" />
+<script language="javascript" type="text/javascript" src="/scripts/common.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/color.js"></script>
+<script language="JavaScript">
+ function mobile_device_detect(url)
+ {
+        var thisOS=navigator.platform;
+        var os=new Array("iPhone","iPod","iPad","android","Nokia","SymbianOS","Symbian","Windows Phone","Phone","Linux armv71","MAUI","UNTRUSTED/1.0","Windows CE","BlackBerry","IEMobile");
+ for(var i=0;i<os.length;i++)
+        {
+ if(thisOS.match(os[i]))
+        {
+  window.location=url;
+ }
+
+ }
+ if(navigator.platform.indexOf('iPad') != -1)
+        {
+  window.location=url;
+ }
+  var check = navigator.appVersion;
+  if( check.match(/linux/i) )
+          {
+   if(check.match(/mobile/i) || check.match(/X11/i))
+                 {
+   window.location=url;
+   }
+ }
+ Array.prototype.in_array = function(e)
+ {
+  for(i=0;i<this.length;i++)
+  {
+   if(this[i] == e)
+   return true;
+  }
+  return false;
+ }
+ }
+mobile_device_detect("https://m.huaxiangju.com/26134/6916687.html");
+</script>
+<script type="text/javascript">
+<!--
+var preview_page = "/26134/";
+var next_page = "/26134/6916692.html";
+var index_page = "/26134/";
+var article_id = "26134";
+var chapter_id = "6916687";
+function jumpPage() {
+  var event = document.all ? window.event : arguments[0];
+  if (event.keyCode == 37) document.location = preview_page;
+  if (event.keyCode == 39) document.location = next_page;
+  if (event.keyCode == 13) document.location = index_page;
+}
+document.onkeydown=jumpPage;
+-->
+</script>
+<script>
+$(function(){
+
+var lenth=$('body').height();
+
+$('.readerLeft').css('height',lenth);
+
+$('.readerRight').css('height',lenth);
+
+
+})
+</script>
+<style></style>
+</head>
+<body id="yellow">
+<script>
+document.write(unescape('%3Ca%20href%3D%22/tijiao.php%3Faid%3D26134%26cid%3D6916687%22%3E%3Cdiv%20class%3D%22report%22%3E%0A%20%20%3Cdiv%20class%3D%22reportLeft%22%3E%u4E00%u952E%u62A5%u544A%u672C%u7AE0%u9519%u8BEF%3C/div%3E%0A%20%20%3Cdiv%20class%3D%22reportRight%22%3E%u65E0%u9700%u767B%u5F55%3C/div%3E%0A%3C/div%3E%0A%3C/a%3E%0A'));
+</script>
+<div class="readerDiv">
+  <div class="readerLeft">
+     <div class="readMark"><img src="/modules/article/templates/api.png"><p>手机上阅读</p></div>
+     <div class="leftLinks">
+       <p class="back"><a href="/26134/">返回书页</a></p>
+       <p class="bookmark"><a href="javascript:Ajax.Request('/modules/article/addbookcase.php?bid=26134&cid=6916687',{onComplete:function(){alert(this.response.replace(/<br[^<>]*>/g,'\n'));}});">保存书签</a></p>
+       <p class="sheet"><a href="javascript:Ajax.Request('/modules/article/addbookcase.php?bid=26134',{onComplete:function(){alert(this.response.replace(/<br[^<>]*>/g,'\n'));}});">加入书架</a></p>
+	   <p class="leave"><a href="/26134/bbs.html" target="_blank">作品讨论</a></p>
+     </div>
+  </div>
+  <div class="readerCon">
+     <div class="articleTitle">
+         <h2>第一章 命中注定的邂逅</h2>
+         <div class="options">
+           <span>背色：<select name="bgcolor"><option value="#fff">默认</option><option value="#90D1F6">蓝色</option><option value="#e7f1e7">绿色</option><option value="#DDDDDD">灰色</option><option value="#FDFFCD">黄色</option></select></span>
+           <span>字体：<select name="font"><option value="Microsoft Yahei">默认</option><option value="MicrosoftJhengHei">黑体</option><option value="STSong">宋体</option><option value="STKaiti">楷体</option></select></span>
+           <span>字号：<select name="fontsize"><option value="18px">默认</option><option value="12px">12号</option><option value="16px">16号</option><option value="18px">18号</option><option value="20px">20号</option><option value="22px">22号</option></select></span>
+           <span>字色：<select name="fontcolor"><option value="#000">默认</option><option value="#2C8DCE">蓝色</option><option value="#8D8D8D">灰色</option><option value="#F6FFB5">黄色</option></select></span>
+         </div>
+     </div>
+     <div class="articleCon">
+     <p>&#33457;&#39321;&#23621;&#25552;&#20379;&#22899;&#29983;&#35328;&#24773;&#23567;&#35828;&#22312;&#32447;&#38405;&#35835;&#65292;&#35328;&#24773;&#23567;&#35828;&#20813;&#36153;&#38405;&#35835;&#65292;&#35328;&#24773;&#23567;&#35828;&#84;&#88;&#84;&#19979;&#36733;&#65292;&#35328;&#24773;&#23567;&#35828;&#38405;&#35835;&#20043;&#23478;&#12290;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#104;&#117;&#97;&#120;&#105;&#97;&#110;&#103;&#106;&#117;&#46;&#99;&#111;&#109;&#47;<br />本书连载自免费原创小说网站”花香居”www.huaxiangju.com，中国最有爱的年轻小说网站！各大市场下载官方免费APP，享最快更新。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;周小同的手指在擎天柱玩具上不停地摩挲，把玩了一阵之后，又将其放回了柜台里面。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;玩具店的门口悬挂着一支温度计，上面的数字表明外面的温度此时正是37摄氏度。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;温度很正常，只不过时间有些不对。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;因为这里是北京，而此时按照公元纪年的话应该是三月份，本应该处在寒冷的尾冬。但出乎意料的是，此刻的天气异常炎热，即便是店里面开着风扇，可依旧无法阻挡可以将牛肉蒸熟的气温的涌入。周小同看着火辣辣的阳光，口中嘟囔着：“真热！”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;三年前的北京三月，还处在彻骨的寒风当中，但是现在，三月份的温度已经和原先七月份的温度不相上下，而现在七月份的温度更是高达四十七度，唯有每年的十二月以及一月份的时候，温度才会降到二十度左右。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;如此异常的变化，和全球气温升高自然有着逃脱不了的关系。自从两年前全球气温突发异常，整个地球的温度在短暂的时间内上升到了所有人都无法想象的地步，对很多人来说那是一场噩梦。在气象史上，两年前的突变被称为‘热涨’<br><br>&nbsp;&nbsp;&nbsp;&nbsp;温度的上升改变的不仅仅是居住环境，连玩具市场也是因此大变模样。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;热涨发生前几天，正值《变形金刚七》火热上映，趁着电影上映的时候，周小同拿出自己压箱底的钱，进了一批变形金刚系列玩具，准备大卖特卖。只是人算总不如天算，谁也没有想到热涨会来的如此之快。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;所有人都讨厌炎热，哪怕是和炎热不沾边的红色也同样被人讨厌，而变形金刚七的主题恰巧是热与火，可以想象当热涨来临之后，有关变形金刚系列的玩具市场是多么的低迷。他进的玩具已经在店里吃了将近两年的灰。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;周小同坐在竹椅上，穿着一个大背心，吹着风扇，看着电视上一直不停宣传的北方冰雪乐园，嘴角不屑撇撇，心想一块块的破冰有啥好看的。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;当热涨来临之后，所有人都不得不忍受异常痛苦的炎热的时候，房地产商却是瞅准了机会。精明的商人们都跑到了东北边境，买下来一处又一处的地皮，构建起来关于冰雪系列住宅以及游乐场。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;当冰雪乐园推出之后，有关冰雪战士的一系列文化也被随之输出，导致整个变形金刚系列玩具更加的低迷，这也使得周小同和冰雪乐园之间有着数不清的‘仇怨’<br><br>&nbsp;&nbsp;&nbsp;&nbsp;可是把电视台换过来换过去，他又换到了关于冰雪乐园的广告上，看着上面标价一万人民币一次的门票，心想真他妈贵。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;就在这个时候，他的电话响了。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;他按下了接听键，懒散地将手机靠近自己的耳朵。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;“老板，有新的玩具了吗？”柔软的声音从手机当中传了出来。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;“没了姑娘，现在这年代的学生都喜欢上了冰雪巨人，谁还会来买这些象征着着火与热的玩具。”周小同躺在凉椅上，翻了翻身子，翘起二郎腿，“况且你上次打来的货款，都被还债了，也就没有再去进货了。”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;在冰雪乐园系列推出之后，代表着火与热系列的玩具早已经被人扔掉角落里面无人问津，不过电话对面的那个姑娘却是个例外。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;他不知道那个姑娘是从哪里找到自己的电话，只不过当对方打来电话的那一刻，他却是愣住了。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;那姑娘当时只说了一句话：“老板，我要二十个擎天柱！”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;一个擎天柱的售价是五百块，卖出一个，他可以获得两百块作为利润，对方一下子要二十个，也就意味着他会得到四千块的利润。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;他当时穷的已经好几天没有揭开锅了，若不是自己这个店是自己家里的，不需要缴纳房租，恐怕他早已经被赶到大街上喝西北风了。此时听到这个电话，怎么不欣喜若狂。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;那姑娘的做法，让他当场在心中就给了其一个识货人的评价，当然作为一个合格的商人，他心中同时还在怒吼：为什么不全部买完呢？我还有店里还堆积着九成的货物。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;风扇的嗡嗡声在店里面不断响起，透过手机传到了另外一端。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;电话那边的那个姑娘沉默片刻之后，声音再次响起：“老板，你那里很热吗？”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;听到这话，周小同却是在心中想到：整个世界都是热的，只有你这个大小姐才会住在有雪有冰的世界。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;那个姑娘家里住在大庆，这是他发货的时候知道的。当北京处在37度高温的时候，大庆依旧是30度左右，温度很宜人。能住在大庆都是有钱人，现在大庆的房价比三年前北京的房价起码要高上三倍以上。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;对面的那个姑娘并没有等到他答话，忽然又自言自语说道：“有热量真的很好，我从来没有见过炎热的天气是怎么样的，它们都说热带有很多的植物，有许多的动物，不像这里，整天都是一望无际的冰雪。”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;周小同随手拿起手机，从凉椅上翻下来，对着门外拍了两张照片，而后传给对方，对其说道：“诺，这里有什么好的，快要把人热死了。”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;照片上是很平凡的东西，很普通的街景，很普通的行人。可是当他将照片传过去之后，那边的那个姑娘却是显得十分兴奋，如同出了笼子的小鸟叽叽喳喳叫道：“那花看起来真美，好久没有见到这样的花了，真怀念火红的颜色。”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;周小同往外探了探头，见到在小店对面的一处楼房拐角处，一朵红色的小花被养在花盆里面，迎着热风抖动着自己快要枯萎的叶子。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;那花的颜色确实很鲜艳，红的仿佛鲜血一样，可是他看了半天也看不出来任何的美。他每天都从店里面进进出出的，不知道将这朵花看了多少遍，却没有一次感觉那花有什么好看的，萎萎蔫蔫的，没有任何一点精气神。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;这花是隔壁老王种的，自从老王两周前去世了之后，这花就一直被这么放在这里，无人看管。天越来越热，周小同也懒得给那花浇水，花儿也就越来越虚弱。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;“你看它已经快要枯萎了，但依旧迎着阳光，享受着生活。”那姑娘的声音忽然变大，变得无比郑重，仿佛抱着一种极为高雅的艺术态度对待周小同发过去的那张照片。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;忽然之间，那姑娘的声音变得十分柔软，柔软的让人忍不住拒绝：“老板，我想在多看看你那里的景色，你能带我出去转转吗？”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;周小同没有拒绝，当场就答应了下来。但他在心中发誓，这一切并不是因为那个姑娘的声音真的很柔软动人，而是因为对方开了一个让他忍不住心动条件：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;“老板，我可以将你剩下的所有玩具全部买下来！”<br><br>&nbsp;&nbsp;&nbsp;&nbsp;PS：<br><br>&nbsp;&nbsp;&nbsp;&nbsp;（新章节上传，求支持，求关注微信公众账号‘兮木叶xi“进行交流。在一个，关于温度的事情，貌似被吐槽好久。我说一下，当气温上升之后，开始时是高温剧增，接着等大气层被破坏，随之而来的就是昼夜温差加大，白天在30度左右，晚上就会下降到零下20度，所以一旦晚上有云雨，会出现大面积的暴雪。没什么难以想象，关于这一方面参考火星跟月球。）<br />&#33457;&#39321;&#23621;&#25552;&#20379;&#22899;&#29983;&#35328;&#24773;&#23567;&#35828;&#22312;&#32447;&#38405;&#35835;&#65292;&#35328;&#24773;&#23567;&#35828;&#20813;&#36153;&#38405;&#35835;&#65292;&#35328;&#24773;&#23567;&#35828;&#84;&#88;&#84;&#19979;&#36733;&#65292;&#35328;&#24773;&#23567;&#35828;&#38405;&#35835;&#20043;&#23478;&#12290;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#119;&#119;&#119;&#46;&#104;&#117;&#97;&#120;&#105;&#97;&#110;&#103;&#106;&#117;&#46;&#99;&#111;&#109;&#47;</p>
+     </div>
+     <div class="page"><a href="/26134/">目录页</a><a href="/26134/6916692.html">下一章</a></div>
+     <p class="tips">（快捷键：← &nbsp;&nbsp;&nbsp;&nbsp;快捷键：回车&nbsp;&nbsp;&nbsp;&nbsp; 快捷键:→）</p>
+   </div>
+  <div class="readerRight">
+  <h2>本周推荐</h2>
+    <ul>
+       <li><img src="/files/article/image/1/1199/1199s.jpg"><a href="/1199/" target="_blank"><h3>修爱有余毒，唯情可解</h3></a><p>作者：二馨儿</p></li>
+       <li><img src="/files/article/image/1/1244/1244s.jpg"><a href="/1244/" target="_blank"><h3>半心缘</h3></a><p>作者：yanghui</p></li>
+       <li><img src="/files/article/image/3/3270/3270s.jpg"><a href="/3270/" target="_blank"><h3>盛宴</h3></a><p>作者：西子</p></li>
+       <li><img src="/files/article/image/1/1025/1025s.jpg"><a href="/1025/" target="_blank"><h3>逃婚狂妃：纨绔三小姐</h3></a><p>作者：子玟杫</p></li>
+    </ul>
+  </div>
+</div>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<!--百度统计-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a56cc74e74f5ef145e68487ce4daed79";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!--百度推送-->
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<!--360推送-->
+<script>
+(function(){
+var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+</body>
+</html>

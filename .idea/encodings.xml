@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/anime_spider/err.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/anime_spider/html_error.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/anime_spider/pic_urls.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/misc/bilibili缓存视频拼接.py" charset="GBK" />
+  </component>
+</project>
